@@ -1,16 +1,13 @@
 # shikhmi
-Салют товарищ! 
-Меня зовут Ашихмина Надежда Анатольевна. 
+Всем привет! Меня зовут Ашихмина Надежда. 
 
 Сейчас я учусь в Московском физико-техническом институте. 
 
-Здесь буду выкладывать несколько моих проектов во время учёбы и после учёбы.
+Здесь вы можете найти мои проекты, при создании которых я учусь и развиваюсь в ML и аналитике данных.
 
 ---
-Salute comrade! 
-My name is Ashikhmina Nadezhda Anatolievna. 
+Hello everyone! My name is Ashikhmina Nadezhda. 
 
-Currently I study at the Moscow Institute of Physics and Technology. 
+Currently I am studying at the Moscow Institute of Physics and Technology. 
 
-Here I will post several of my projects during and after my studies.
-
+Here you can find my projects, by creating them I study and develop in ML and data analytics.
